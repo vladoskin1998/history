@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vladoskin1998.github.io/history/static/css/main.5b89cf73.chunk.css",
+    "main.js": "/vladoskin1998.github.io/history/static/js/main.78f57ca1.chunk.js",
+    "main.js.map": "/vladoskin1998.github.io/history/static/js/main.78f57ca1.chunk.js.map",
+    "runtime-main.js": "/vladoskin1998.github.io/history/static/js/runtime-main.29c3c9f5.js",
+    "runtime-main.js.map": "/vladoskin1998.github.io/history/static/js/runtime-main.29c3c9f5.js.map",
+    "static/js/2.f301b15d.chunk.js": "/vladoskin1998.github.io/history/static/js/2.f301b15d.chunk.js",
+    "static/js/2.f301b15d.chunk.js.map": "/vladoskin1998.github.io/history/static/js/2.f301b15d.chunk.js.map",
+    "index.html": "/vladoskin1998.github.io/history/index.html",
+    "static/css/main.5b89cf73.chunk.css.map": "/vladoskin1998.github.io/history/static/css/main.5b89cf73.chunk.css.map",
+    "static/js/2.f301b15d.chunk.js.LICENSE.txt": "/vladoskin1998.github.io/history/static/js/2.f301b15d.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/vladoskin1998.github.io/history/static/media/Roboto-Regular.03523cf5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29c3c9f5.js",
+    "static/js/2.f301b15d.chunk.js",
+    "static/css/main.5b89cf73.chunk.css",
+    "static/js/main.78f57ca1.chunk.js"
+  ]
+}
